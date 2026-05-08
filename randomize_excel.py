@@ -45,11 +45,24 @@ def randomize_number(value):
         return sign * round(rand_val, decimal_places)
 
 
+def print_progress(current: int, total: int, sheet_name: str):
+    """진행률 표시 (같은 줄 덮어쓰기)"""
+    pct = int(current / total * 100) if total > 0 else 0
+    bar_len = 30
+    filled = int(bar_len * pct / 100)
+    bar = '█' * filled + '░' * (bar_len - filled)
+    print(f"\r  [{bar}] {pct:3d}%  |  시트: {sheet_name}  ({current:,}/{total:,} 행)", end='', flush=True)
+
+
 def process_xlsx(input_path: str, output_path: str) -> tuple[int, int]:
     """.xlsx / .xlsm 처리"""
     wb = openpyxl.load_workbook(input_path)
     changed = 0
     kept_years = 0
+
+    # 전체 행 수 계산
+    total_rows = sum(ws.max_row or 0 for ws in wb.worksheets)
+    processed_rows = 0
 
     for sheet_name in wb.sheetnames:
         ws = wb[sheet_name]
@@ -63,7 +76,10 @@ def process_xlsx(input_path: str, output_path: str) -> tuple[int, int]:
                     continue
                 cell.value = randomize_number(value)
                 changed += 1
+            processed_rows += 1
+            print_progress(processed_rows, total_rows, sheet_name)
 
+    print()  # 줄바꿈
     wb.save(output_path)
     return changed, kept_years
 
@@ -77,11 +93,23 @@ def process_xlsb(input_path: str, output_path: str) -> tuple[int, int]:
         print("      pip install pyxlsb")
         sys.exit(1)
 
+    # 1패스: 전체 행 수 파악
+    print("  파일 크기 분석 중...", end='', flush=True)
+    total_rows = 0
+    with open_workbook(input_path) as wb:
+        for sheet_name in wb.sheets:
+            with wb.get_sheet(sheet_name) as ws:
+                for _ in ws.rows():
+                    total_rows += 1
+    print(f"\r  총 {total_rows:,}행 확인 완료          ")
+
+    # 2패스: 실제 처리
     wb_out = openpyxl.Workbook()
-    wb_out.remove(wb_out.active)  # 기본 시트 제거
+    wb_out.remove(wb_out.active)
 
     changed = 0
     kept_years = 0
+    processed_rows = 0
 
     with open_workbook(input_path) as wb:
         for sheet_name in wb.sheets:
@@ -89,8 +117,7 @@ def process_xlsb(input_path: str, output_path: str) -> tuple[int, int]:
             with wb.get_sheet(sheet_name) as ws:
                 for row in ws.rows():
                     for cell in row:
-                        value = cell.v  # pyxlsb 셀 값은 .v 속성
-
+                        value = cell.v
                         r, c = cell.r + 1, cell.c + 1  # pyxlsb는 0-based, openpyxl은 1-based
 
                         if not isinstance(value, (int, float)) or isinstance(value, bool):
@@ -104,6 +131,10 @@ def process_xlsb(input_path: str, output_path: str) -> tuple[int, int]:
                             ws_out.cell(row=r, column=c, value=randomize_number(value))
                             changed += 1
 
+                    processed_rows += 1
+                    print_progress(processed_rows, total_rows, sheet_name)
+
+    print()  # 줄바꿈
     wb_out.save(output_path)
     return changed, kept_years
 
@@ -130,7 +161,6 @@ def main():
 
     if len(sys.argv) >= 3:
         output_path = sys.argv[2]
-        # xlsb 입력인데 출력을 xlsb로 지정한 경우 강제로 xlsx로 변경
         if output_path.lower().endswith('.xlsb'):
             output_path = output_path[:-5] + '.xlsx'
             print(f"※ .xlsb 출력은 불가하여 .xlsx로 변경합니다: {output_path}")
@@ -154,8 +184,8 @@ def main():
         sys.exit(1)
 
     print("완료!")
-    print(f"  변경된 숫자 셀: {changed}개")
-    print(f"  유지된 연도 셀: {kept_years}개 ({YEAR_MIN}~{YEAR_MAX} 범위)")
+    print(f"  변경된 숫자 셀: {changed:,}개")
+    print(f"  유지된 연도 셀: {kept_years:,}개 ({YEAR_MIN}~{YEAR_MAX} 범위)")
 
 
 if __name__ == "__main__":
