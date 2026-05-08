@@ -1,0 +1,22 @@
+# 가상환경
+build_venv/
+build_env/
+
+# PyInstaller 빌드 임시파일
+build_tmp/
+dist/
+*.spec
+*.egg-info/
+
+# cx_Freeze 빌드 임시파일
+dist_cx/
+
+# 데이터 파일 (민감 정보)
+배포/*.xlsb
+배포/*.xls
+배포/*.xlsx
+
+# Python 캐시
+__pycache__/
+*.pyc
+*.pyo
