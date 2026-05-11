@@ -255,16 +255,22 @@ class ExcelExtractor:
         반환: dict[str, FundData]
         Excel이 설치되어 있어야 합니다.
         """
+        return self._run_xlwings(visible=False, show_progress=show_progress)
+
+    def _read_all_visible(self, show_progress: bool = True) -> dict:
+        """Excel 창을 화면에 표시하면서 실행 (COM 문제 우회용)."""
+        return self._run_xlwings(visible=True, show_progress=show_progress)
+
+    def _run_xlwings(self, visible: bool = False, show_progress: bool = True) -> dict:
+        """xlwings 실행 공통 로직."""
         try:
             import xlwings as xw
         except ImportError:
             raise RuntimeError("xlwings가 필요합니다: pip install xlwings")
 
         results = {}
-        import openpyxl
 
-        print("Excel 자동화 시작 (백그라운드)...")
-        app = xw.App(visible=False, add_book=False)
+        app = xw.App(visible=visible, add_book=False)
         try:
             wb_xw = app.books.open(self.excel_path)
             ws_xw = wb_xw.sheets[self.SHEET_NORMAL]
@@ -279,7 +285,7 @@ class ExcelExtractor:
                 ws_xw["B1"].value = fund_type
                 wb_xw.app.calculate()
 
-                # 임시 저장 없이 xlwings로 직접 값 읽기
+                # xlwings로 직접 값 읽기
                 fd = self._read_from_xlwings(ws_xw, fund_type)
                 results[fund_type] = fd
 

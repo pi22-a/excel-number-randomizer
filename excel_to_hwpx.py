@@ -24,6 +24,14 @@ from extract_excel import ExcelExtractor, FundData
 from hwpx_utils import HwpxEditor
 
 
+# ── PyInstaller exe 실행 시 경로 처리 ─────────────────────────────────────
+# exe로 빌드되면 __file__ 대신 sys._MEIPASS 사용
+if getattr(sys, 'frozen', False):
+    _BASE_DIR = Path(sys._MEIPASS)
+else:
+    _BASE_DIR = Path(__file__).parent
+
+
 # ── 숫자 포매팅 ────────────────────────────────────────────────────────────
 
 def fmt_num(value: float, decimals: int = 0, comma: bool = True) -> str:
@@ -80,7 +88,7 @@ def fmt_pct(value: float, decimals: int = 1) -> str:
 #   analyze_hwpx.py를 실행하여 구조를 파악한 후 채워 넣으세요.
 
 
-MAPPING_PATH = Path(__file__).parent / "mapping.json"
+MAPPING_PATH = _BASE_DIR / "mapping.json"
 
 
 def load_mapping() -> dict:

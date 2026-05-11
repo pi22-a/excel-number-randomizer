@@ -1,18 +1,44 @@
 """
-shutil.copyfile의 Python 3.13 memoryview 버그를 우회해서 PyInstaller 빌드를 실행하는 스크립트
+숫자변환기.exe 빌드 스크립트
+대상: randomize_excel.py → 배포/숫자변환기.exe
+
+실행:
+  python build_patch.py
+  (가상환경 자동 생성 후 최소 패키지만 포함하여 빌드)
 """
+import sys
+import subprocess
 import shutil
-import os
 import pathlib
 
-# memoryview write 버그 우회: pathlib 바이너리 읽기/쓰기로 완전 대체
+_HERE    = pathlib.Path(__file__).parent.resolve()
+_VENV    = _HERE / "venv_autofill"
+_PYTHON  = _VENV / "Scripts" / "python.exe"
+
+# ── 가상환경 부트스트랩 ────────────────────────────────────────────────────
+# 이미 venv_autofill로 실행 중이 아니면 자동 생성 후 재실행
+if pathlib.Path(sys.prefix).resolve() != _VENV.resolve():
+    if not _PYTHON.exists():
+        print("가상환경 생성 중... (최초 1회)")
+        subprocess.run([sys.executable, "-m", "venv", str(_VENV)], check=True)
+        print("패키지 설치 중...")
+        subprocess.run([
+            str(_PYTHON), "-m", "pip", "install", "--quiet",
+            "pyinstaller", "openpyxl", "pyxlsb", "lxml", "xlwings", "pywin32"
+        ], check=True)
+        print("설치 완료\n")
+    print("가상환경으로 빌드 시작...")
+    subprocess.run([str(_PYTHON), str(__file__)], check=True)
+    sys.exit(0)
+
+# ── 이하 가상환경 내에서 실행 ──────────────────────────────────────────────
+
+# Python 3.13 memoryview 버그 우회
 def _patched_copyfile(src, dst, *, follow_symlinks=True):
     pathlib.Path(dst).write_bytes(pathlib.Path(src).read_bytes())
 
 shutil.copyfile = _patched_copyfile
 
-# PyInstaller 메인 실행
-import sys
 sys.argv = [
     'pyinstaller',
     '--onefile',
@@ -29,9 +55,6 @@ sys.argv = [
     '--exclude-module', 'scipy',
     '--exclude-module', 'PIL',
     '--exclude-module', 'unittest',
-    '--exclude-module', 'email',
-    '--exclude-module', 'html',
-    '--exclude-module', 'http',
     '--exclude-module', 'xmlrpc',
     '--exclude-module', 'pydoc',
     '--exclude-module', 'doctest',
