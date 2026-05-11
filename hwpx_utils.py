@@ -176,11 +176,12 @@ class HwpxEditor:
                                section_keyword: str,
                                pattern: str,
                                replacement: str,
-                               flags: int = 0) -> int:
+                               flags: int = 0,
+                               section_file: str = "") -> int:
         """
-        section_keyword를 포함하는 단락 근처의 텍스트에서
-        pattern을 찾아 replacement로 교체.
+        section_keyword를 포함하는 파일의 텍스트에서 pattern을 replacement로 교체.
 
+        section_file: 직접 파일명 지정 (예: 'Contents/section0.xml'), 지정 시 keyword 무시
         section_keyword: 섹션을 식별하는 키워드 (예: "마이크로VC")
         pattern: 교체할 정규식 패턴
         replacement: 교체할 문자열 (re.sub에 전달)
@@ -190,10 +191,14 @@ class HwpxEditor:
         compiled = re.compile(pattern, flags)
 
         for fname, root in self._sections.items():
-            # 섹션 키워드가 이 XML 파일에 존재하는지 확인
-            full_text = _get_all_text(root)
-            if section_keyword and section_keyword not in full_text:
-                continue
+            if section_file:
+                if fname != section_file:
+                    continue
+            else:
+                # 섹션 키워드가 이 XML 파일에 존재하는지 확인
+                full_text = _get_all_text(root)
+                if section_keyword and section_keyword not in full_text:
+                    continue
 
             for node, attr in _iter_text_nodes(root):
                 orig = getattr(node, attr)
@@ -235,16 +240,20 @@ class HwpxEditor:
                        row: int,
                        col: int,
                        value: str,
-                       section_keyword: str = "") -> bool:
+                       section_keyword: str = "",
+                       section_file: str = "") -> bool:
         """
         전체 표 중 table_idx번째 표의 (row, col) 셀 텍스트를 value로 교체.
         row, col은 0-based.
-        section_keyword를 지정하면 해당 키워드가 있는 섹션의 표만 탐색.
+        section_file을 지정하면 해당 파일(예: 'Contents/section0.xml')의 표만 탐색.
+        section_file이 없으면 section_keyword로 파일을 필터링.
         반환: 성공 여부
         """
         tables = self._get_table_roots()
 
-        if section_keyword:
+        if section_file:
+            tables = [(f, t) for f, t in tables if f == section_file]
+        elif section_keyword:
             tables = [(f, t) for f, t in tables
                       if section_keyword in _get_all_text(self._sections[f])]
 
@@ -275,10 +284,13 @@ class HwpxEditor:
         return True
 
     def get_table_cell(self, table_idx: int, row: int, col: int,
-                       section_keyword: str = "") -> Optional[str]:
+                       section_keyword: str = "",
+                       section_file: str = "") -> Optional[str]:
         """표 셀 텍스트 읽기 (디버깅용)."""
         tables = self._get_table_roots()
-        if section_keyword:
+        if section_file:
+            tables = [(f, t) for f, t in tables if f == section_file]
+        elif section_keyword:
             tables = [(f, t) for f, t in tables
                       if section_keyword in _get_all_text(self._sections[f])]
         if table_idx >= len(tables):

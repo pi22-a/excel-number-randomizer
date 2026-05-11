@@ -151,15 +151,16 @@ def fill_hwpx(hwpx_path: str, fund_data: dict, output_path: str,
     total_replaced = 0
 
     for sec_cfg in sections_map:
-        fund_type = sec_cfg.get("fund_type", "")
-        keyword   = sec_cfg.get("section_keyword", "")
+        fund_type    = sec_cfg.get("fund_type", "")
+        keyword      = sec_cfg.get("section_keyword", "")
+        sec_file     = sec_cfg.get("section_file", "")   # 예: "Contents/section0.xml"
 
         if fund_type not in fund_data:
             print(f"  건너뜀: '{fund_type}' — 엑셀 데이터 없음")
             continue
 
         fd = fund_data[fund_type]
-        print(f"  처리: {fund_type} (키워드: {keyword})")
+        print(f"  처리: {fund_type} (파일: {sec_file or '자동'}, 키워드: {keyword})")
 
         # 텍스트 교체
         for tr in sec_cfg.get("text_replacements", []):
@@ -170,6 +171,7 @@ def fill_hwpx(hwpx_path: str, fund_data: dict, output_path: str,
                     section_keyword=keyword,
                     pattern=tr["pattern"],
                     replacement=fmt_val,
+                    section_file=tr.get("section_file", sec_file),
                 )
                 total_replaced += n
             except Exception as e:
@@ -186,6 +188,7 @@ def fill_hwpx(hwpx_path: str, fund_data: dict, output_path: str,
                     col=tc["col"],
                     value=fmt_val,
                     section_keyword=keyword,
+                    section_file=tc.get("section_file", sec_file),
                 )
                 if not ok:
                     print(f"    경고: 표 셀 교체 실패 ({tc.get('description','?')})")
