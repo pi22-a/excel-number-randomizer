@@ -16,6 +16,16 @@ dist_cx/
 배포/*.xls
 배포/*.xlsx
 
+# 내부망 전송 관련 (보안)
+pack_for_internal.py
+배포/내부망_설치실행.py
+배포/내부망패키지.txt
+
+# 임시 분석 스크립트
+_analyze_cells.py
+_check_mapping.py
+make_test_hwpx.py
+
 # Python 캐시
 __pycache__/
 *.pyc
