@@ -1663,15 +1663,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 8,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 8,
           "row": 2,
@@ -1686,15 +1677,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 8,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -1717,15 +1699,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 8,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 8,
           "row": 4,
@@ -1740,15 +1713,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 8,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -1771,15 +1735,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 8,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 8,
           "row": 6,
@@ -1794,15 +1749,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 8,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -1825,15 +1771,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 8,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 8,
           "row": 8,
@@ -1848,15 +1785,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 8,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -1879,15 +1807,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 8,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 8,
           "row": 10,
@@ -1906,15 +1825,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 8,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 8,
           "row": 11,
@@ -1929,15 +1839,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 8,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         }
@@ -3606,15 +3507,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 16,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 16,
           "row": 2,
@@ -3629,15 +3521,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 16,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -3660,15 +3543,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 16,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 16,
           "row": 4,
@@ -3683,15 +3557,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 16,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -3714,15 +3579,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 16,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 16,
           "row": 6,
@@ -3737,15 +3593,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 16,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -3768,15 +3615,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 16,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 16,
           "row": 8,
@@ -3791,15 +3629,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 16,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -3822,15 +3651,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 16,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 16,
           "row": 10,
@@ -3849,15 +3669,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 16,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 16,
           "row": 11,
@@ -3872,15 +3683,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 16,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         }
@@ -4604,15 +4406,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 24,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 24,
           "row": 2,
@@ -4627,15 +4420,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 24,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -4658,15 +4442,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 24,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 24,
           "row": 4,
@@ -4681,15 +4456,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 24,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -4712,15 +4478,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 24,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 24,
           "row": 6,
@@ -4735,15 +4492,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 24,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -4766,15 +4514,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 24,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 24,
           "row": 8,
@@ -4789,15 +4528,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 24,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         }
@@ -5962,15 +5692,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 31,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 31,
           "row": 2,
@@ -5985,15 +5706,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 31,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -6016,15 +5728,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 31,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 31,
           "row": 4,
@@ -6039,15 +5742,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 31,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -6070,15 +5764,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 31,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 31,
           "row": 6,
@@ -6093,15 +5778,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 31,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -6124,15 +5800,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 31,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 31,
           "row": 8,
@@ -6147,15 +5814,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 31,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -6178,15 +5836,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 31,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 31,
           "row": 10,
@@ -6205,15 +5854,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 31,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 31,
           "row": 11,
@@ -6228,15 +5868,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 31,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         }
@@ -7275,15 +6906,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 39,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 39,
           "row": 2,
@@ -7298,15 +6920,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 39,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -7329,15 +6942,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 39,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 39,
           "row": 4,
@@ -7352,15 +6956,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 39,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -7383,15 +6978,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 39,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 39,
           "row": 6,
@@ -7406,15 +6992,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 39,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -7437,15 +7014,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 39,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 39,
           "row": 8,
@@ -7460,15 +7028,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 39,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -7491,15 +7050,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 39,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 39,
           "row": 10,
@@ -7514,15 +7064,6 @@
           "row": 10,
           "col": 2,
           "data_path": "s3_rows.9.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 39,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -7545,15 +7086,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 39,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행11 invested",
           "table_idx": 39,
           "row": 12,
@@ -7568,15 +7100,6 @@
           "row": 12,
           "col": 2,
           "data_path": "s3_rows.11.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행11 cumulative",
-          "table_idx": 39,
-          "row": 12,
-          "col": 3,
-          "data_path": "s3_rows.11.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         }
@@ -8678,15 +8201,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 61,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 61,
           "row": 2,
@@ -8701,15 +8215,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 61,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -8732,15 +8237,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 61,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 61,
           "row": 4,
@@ -8755,15 +8251,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 61,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -8786,15 +8273,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 61,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 61,
           "row": 6,
@@ -8809,15 +8287,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 61,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -8840,15 +8309,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 61,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 61,
           "row": 8,
@@ -8863,15 +8323,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 61,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -8894,15 +8345,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 61,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 61,
           "row": 10,
@@ -8921,15 +8363,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 61,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 61,
           "row": 11,
@@ -8944,15 +8377,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 61,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         }
@@ -9865,15 +9289,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 68,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 68,
           "row": 2,
@@ -9888,15 +9303,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 68,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -9919,15 +9325,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 68,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 68,
           "row": 4,
@@ -9942,15 +9339,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 68,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -9973,15 +9361,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 68,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 68,
           "row": 6,
@@ -9996,15 +9375,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 68,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -10027,15 +9397,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 68,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 68,
           "row": 8,
@@ -10050,15 +9411,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 68,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -10081,15 +9433,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 68,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 68,
           "row": 10,
@@ -10108,15 +9451,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 68,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 68,
           "row": 11,
@@ -10131,15 +9465,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 68,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         }
@@ -11115,15 +10440,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 75,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 75,
           "row": 2,
@@ -11138,15 +10454,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 75,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -11169,15 +10476,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 75,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 75,
           "row": 4,
@@ -11192,15 +10490,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 75,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -11223,15 +10512,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 75,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 75,
           "row": 6,
@@ -11246,15 +10526,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 75,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -11277,15 +10548,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 75,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 75,
           "row": 8,
@@ -11300,15 +10562,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 75,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -11331,15 +10584,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 75,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 75,
           "row": 10,
@@ -11358,15 +10602,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 75,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 75,
           "row": 11,
@@ -11381,15 +10616,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 75,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         }
@@ -13058,15 +12284,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 82,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 82,
           "row": 2,
@@ -13081,15 +12298,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 82,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -13112,15 +12320,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 82,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 82,
           "row": 4,
@@ -13135,15 +12334,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 82,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -13166,15 +12356,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 82,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 82,
           "row": 6,
@@ -13189,15 +12370,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 82,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -13220,15 +12392,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 82,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 82,
           "row": 8,
@@ -13243,15 +12406,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 82,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -13274,15 +12428,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 82,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 82,
           "row": 10,
@@ -13301,15 +12446,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 82,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 82,
           "row": 11,
@@ -13324,15 +12460,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 82,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         }
@@ -15001,15 +14128,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 90,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 90,
           "row": 2,
@@ -15024,15 +14142,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 90,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -15055,15 +14164,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 90,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 90,
           "row": 4,
@@ -15078,15 +14178,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 90,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -15109,15 +14200,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 90,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 90,
           "row": 6,
@@ -15132,15 +14214,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 90,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -15163,15 +14236,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 90,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 90,
           "row": 8,
@@ -15186,15 +14250,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 90,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -15217,15 +14272,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 90,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 90,
           "row": 10,
@@ -15244,15 +14290,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 90,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 90,
           "row": 11,
@@ -15267,15 +14304,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 90,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         }
@@ -16125,15 +15153,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 98,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 98,
           "row": 2,
@@ -16148,15 +15167,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 98,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -16179,15 +15189,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 98,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 98,
           "row": 4,
@@ -16202,15 +15203,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 98,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -16233,15 +15225,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 98,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 98,
           "row": 6,
@@ -16256,15 +15239,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 98,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -16287,15 +15261,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 98,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 98,
           "row": 8,
@@ -16310,15 +15275,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 98,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -16341,15 +15297,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 98,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 98,
           "row": 10,
@@ -16364,15 +15311,6 @@
           "row": 10,
           "col": 2,
           "data_path": "s3_rows.9.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 98,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         }
@@ -17033,15 +15971,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 105,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 105,
           "row": 2,
@@ -17056,15 +15985,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 105,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -17087,15 +16007,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 105,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 105,
           "row": 4,
@@ -17110,15 +16021,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 105,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -17141,15 +16043,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 105,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 105,
           "row": 6,
@@ -17164,15 +16057,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 105,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -17195,15 +16079,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 105,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 105,
           "row": 8,
@@ -17218,15 +16093,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 105,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         }
@@ -18013,15 +16879,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 112,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 112,
           "row": 2,
@@ -18036,15 +16893,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 112,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -18067,15 +16915,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 112,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 112,
           "row": 4,
@@ -18090,15 +16929,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 112,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -18121,15 +16951,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 112,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 112,
           "row": 6,
@@ -18144,15 +16965,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 112,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -18175,15 +16987,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 112,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 112,
           "row": 8,
@@ -18198,15 +17001,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 112,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -18229,15 +17023,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 112,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 112,
           "row": 10,
@@ -18252,15 +17037,6 @@
           "row": 10,
           "col": 2,
           "data_path": "s3_rows.9.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 112,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         }
@@ -19047,15 +17823,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 119,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 119,
           "row": 2,
@@ -19070,15 +17837,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 119,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -19101,15 +17859,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 119,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 119,
           "row": 4,
@@ -19124,15 +17873,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 119,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -19155,15 +17895,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 119,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 119,
           "row": 6,
@@ -19178,15 +17909,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 119,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -19209,15 +17931,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 119,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 119,
           "row": 8,
@@ -19232,15 +17945,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 119,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         }
@@ -20972,15 +19676,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 126,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 126,
           "row": 2,
@@ -20995,15 +19690,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 126,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -21026,15 +19712,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 126,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 126,
           "row": 4,
@@ -21049,15 +19726,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 126,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -21080,15 +19748,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 126,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 126,
           "row": 6,
@@ -21103,15 +19762,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 126,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -21134,15 +19784,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 126,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 126,
           "row": 8,
@@ -21157,15 +19798,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 126,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -21188,15 +19820,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 126,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 126,
           "row": 10,
@@ -21215,15 +19838,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 126,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 126,
           "row": 11,
@@ -21238,15 +19852,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 126,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         }
@@ -22978,15 +21583,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 136,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 136,
           "row": 2,
@@ -23001,15 +21597,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 136,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -23032,15 +21619,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 136,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 136,
           "row": 4,
@@ -23055,15 +21633,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 136,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -23086,15 +21655,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 136,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 136,
           "row": 6,
@@ -23109,15 +21669,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 136,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -23140,15 +21691,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 136,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 136,
           "row": 8,
@@ -23163,15 +21705,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 136,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -23194,15 +21727,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 136,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 136,
           "row": 10,
@@ -23221,15 +21745,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 136,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 136,
           "row": 11,
@@ -23244,15 +21759,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 136,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         }
@@ -25882,15 +24388,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 144,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 144,
           "row": 2,
@@ -25905,15 +24402,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 144,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -25936,15 +24424,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 144,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 144,
           "row": 4,
@@ -25959,15 +24438,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 144,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -25990,15 +24460,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 144,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 144,
           "row": 6,
@@ -26013,15 +24474,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 144,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         },
@@ -26044,15 +24496,6 @@
           "section_file": "Contents/section0.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 144,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 144,
           "row": 8,
@@ -26067,15 +24510,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section0.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 144,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section0.xml"
         }
@@ -26736,15 +25170,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 3,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 3,
           "row": 2,
@@ -26759,15 +25184,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 3,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -26790,15 +25206,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 3,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 3,
           "row": 4,
@@ -26813,15 +25220,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 3,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -26844,15 +25242,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 3,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 3,
           "row": 6,
@@ -26871,15 +25260,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 3,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행6 invested",
           "table_idx": 3,
           "row": 7,
@@ -26894,15 +25274,6 @@
           "row": 7,
           "col": 2,
           "data_path": "s3_rows.6.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 3,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }
@@ -28634,15 +27005,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 10,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 10,
           "row": 2,
@@ -28657,15 +27019,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 10,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -28688,15 +27041,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 10,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 10,
           "row": 4,
@@ -28711,15 +27055,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 10,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -28742,15 +27077,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 10,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 10,
           "row": 6,
@@ -28765,15 +27091,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 10,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -28796,15 +27113,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 10,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 10,
           "row": 8,
@@ -28819,15 +27127,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 10,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -28850,15 +27149,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 10,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 10,
           "row": 10,
@@ -28877,15 +27167,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 10,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 10,
           "row": 11,
@@ -28900,15 +27181,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 10,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }
@@ -30577,15 +28849,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 18,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 18,
           "row": 2,
@@ -30600,15 +28863,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 18,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -30631,15 +28885,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 18,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 18,
           "row": 4,
@@ -30654,15 +28899,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 18,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -30685,15 +28921,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 18,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 18,
           "row": 6,
@@ -30708,15 +28935,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 18,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -30739,15 +28957,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 18,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 18,
           "row": 8,
@@ -30762,15 +28971,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 18,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -30793,15 +28993,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 18,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 18,
           "row": 10,
@@ -30820,15 +29011,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 18,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 18,
           "row": 11,
@@ -30843,15 +29025,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 18,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }
@@ -31890,15 +30063,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 26,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 26,
           "row": 2,
@@ -31913,15 +30077,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 26,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -31944,15 +30099,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 26,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 26,
           "row": 4,
@@ -31967,15 +30113,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 26,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -31998,15 +30135,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 26,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 26,
           "row": 6,
@@ -32021,15 +30149,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 26,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -32052,15 +30171,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 26,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 26,
           "row": 8,
@@ -32075,15 +30185,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 26,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -32106,15 +30207,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 26,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 26,
           "row": 10,
@@ -32133,15 +30225,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 26,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 26,
           "row": 11,
@@ -32156,15 +30239,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 26,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }
@@ -33455,15 +31529,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 34,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 34,
           "row": 2,
@@ -33478,15 +31543,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 34,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -33509,15 +31565,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 34,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 34,
           "row": 4,
@@ -33532,15 +31579,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 34,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -33563,15 +31601,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 34,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 34,
           "row": 6,
@@ -33586,15 +31615,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 34,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -33617,15 +31637,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 34,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 34,
           "row": 8,
@@ -33640,15 +31651,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 34,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -33671,15 +31673,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 34,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 34,
           "row": 10,
@@ -33698,15 +31691,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 34,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 34,
           "row": 11,
@@ -33721,15 +31705,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 34,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }
@@ -35083,15 +33058,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 42,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 42,
           "row": 2,
@@ -35106,15 +33072,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 42,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -35137,15 +33094,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 42,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 42,
           "row": 4,
@@ -35160,15 +33108,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 42,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -35191,15 +33130,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 42,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 42,
           "row": 6,
@@ -35214,15 +33144,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 42,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -35245,15 +33166,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 42,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 42,
           "row": 8,
@@ -35268,15 +33180,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 42,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -35299,15 +33202,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 42,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 42,
           "row": 10,
@@ -35326,15 +33220,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 42,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 42,
           "row": 11,
@@ -35349,15 +33234,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 42,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }
@@ -36270,15 +34146,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 50,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 50,
           "row": 2,
@@ -36293,15 +34160,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 50,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -36324,15 +34182,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 50,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 50,
           "row": 4,
@@ -36347,15 +34196,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 50,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -36378,15 +34218,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 50,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 50,
           "row": 6,
@@ -36401,15 +34232,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 50,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -36432,15 +34254,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 50,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 50,
           "row": 8,
@@ -36455,15 +34268,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 50,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -36486,15 +34290,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 50,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 50,
           "row": 10,
@@ -36513,15 +34308,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 50,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 50,
           "row": 11,
@@ -36536,15 +34322,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 50,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }
@@ -37142,15 +34919,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 58,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 58,
           "row": 2,
@@ -37165,15 +34933,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 58,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -37196,15 +34955,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 58,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 58,
           "row": 4,
@@ -37219,15 +34969,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 58,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -37250,15 +34991,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 58,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 58,
           "row": 6,
@@ -37273,15 +35005,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 58,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -37304,15 +35027,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 58,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 58,
           "row": 8,
@@ -37327,15 +35041,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 58,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -37358,15 +35063,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 58,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 58,
           "row": 10,
@@ -37385,15 +35081,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 58,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 58,
           "row": 11,
@@ -37408,15 +35095,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 58,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }
@@ -38392,15 +36070,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 65,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 65,
           "row": 2,
@@ -38415,15 +36084,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 65,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -38446,15 +36106,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 65,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 65,
           "row": 4,
@@ -38469,15 +36120,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 65,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -38500,15 +36142,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 65,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 65,
           "row": 6,
@@ -38523,15 +36156,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 65,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -38554,15 +36178,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 65,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 65,
           "row": 8,
@@ -38577,15 +36192,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 65,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -38608,15 +36214,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 65,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 65,
           "row": 10,
@@ -38635,15 +36232,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 65,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 65,
           "row": 11,
@@ -38658,15 +36246,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 65,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }
@@ -39705,15 +37284,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 72,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 72,
           "row": 2,
@@ -39728,15 +37298,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 72,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -39759,15 +37320,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 72,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 72,
           "row": 4,
@@ -39782,15 +37334,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 72,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -39813,15 +37356,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 72,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 72,
           "row": 6,
@@ -39836,15 +37370,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 72,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -39867,15 +37392,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 72,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 72,
           "row": 8,
@@ -39890,15 +37406,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 72,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -39921,15 +37428,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 72,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 72,
           "row": 10,
@@ -39948,15 +37446,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 72,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 72,
           "row": 11,
@@ -39971,15 +37460,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 72,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }
@@ -40451,15 +37931,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 80,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 80,
           "row": 2,
@@ -40474,15 +37945,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 80,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -40505,15 +37967,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 80,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 80,
           "row": 4,
@@ -40528,15 +37981,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 80,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }
@@ -41575,15 +39019,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 86,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 86,
           "row": 2,
@@ -41598,15 +39033,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 86,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -41629,15 +39055,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 86,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 86,
           "row": 4,
@@ -41652,15 +39069,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 86,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -41683,15 +39091,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 86,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 86,
           "row": 6,
@@ -41706,15 +39105,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 86,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -41737,15 +39127,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 86,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 86,
           "row": 8,
@@ -41760,15 +39141,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 86,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -41791,15 +39163,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 86,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 86,
           "row": 10,
@@ -41818,15 +39181,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 86,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 86,
           "row": 11,
@@ -41841,15 +39195,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 86,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }
@@ -42573,15 +39918,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 94,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 94,
           "row": 2,
@@ -42596,15 +39932,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 94,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -42627,15 +39954,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 94,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 94,
           "row": 4,
@@ -42650,15 +39968,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 94,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -42681,15 +39990,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 94,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 94,
           "row": 6,
@@ -42704,15 +40004,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 94,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -42735,15 +40026,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 94,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 94,
           "row": 8,
@@ -42758,15 +40040,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 94,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }
@@ -44120,15 +41393,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 102,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 102,
           "row": 2,
@@ -44143,15 +41407,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 102,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -44174,15 +41429,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 102,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 102,
           "row": 4,
@@ -44197,15 +41443,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 102,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -44228,15 +41465,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 102,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 102,
           "row": 6,
@@ -44251,15 +41479,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 102,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -44282,15 +41501,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 102,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 102,
           "row": 8,
@@ -44305,15 +41515,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 102,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -44336,15 +41537,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 102,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 102,
           "row": 10,
@@ -44363,15 +41555,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 102,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 102,
           "row": 11,
@@ -44386,15 +41569,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 102,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }
@@ -44929,15 +42103,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 110,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 110,
           "row": 2,
@@ -44952,15 +42117,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 110,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -44983,15 +42139,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 110,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 110,
           "row": 4,
@@ -45010,15 +42157,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 110,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행4 invested",
           "table_idx": 110,
           "row": 5,
@@ -45033,15 +42171,6 @@
           "row": 5,
           "col": 2,
           "data_path": "s3_rows.4.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 110,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }
@@ -45765,15 +42894,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 116,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 116,
           "row": 2,
@@ -45788,15 +42908,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 116,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -45819,15 +42930,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 116,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 116,
           "row": 4,
@@ -45842,15 +42944,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 116,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -45873,15 +42966,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 116,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 116,
           "row": 6,
@@ -45896,15 +42980,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 116,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -45927,15 +43002,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 116,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 116,
           "row": 8,
@@ -45950,15 +43016,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 116,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }
@@ -46430,15 +43487,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 123,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 123,
           "row": 2,
@@ -46453,15 +43501,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 123,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -46484,15 +43523,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 123,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 123,
           "row": 4,
@@ -46507,15 +43537,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 123,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -46538,15 +43559,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 123,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 123,
           "row": 6,
@@ -46561,15 +43573,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 123,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -46592,15 +43595,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 123,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 123,
           "row": 8,
@@ -46615,15 +43609,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 123,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }
@@ -47536,15 +44521,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 130,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 130,
           "row": 2,
@@ -47559,15 +44535,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 130,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -47590,15 +44557,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 130,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 130,
           "row": 4,
@@ -47613,15 +44571,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 130,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -47644,15 +44593,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 130,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 130,
           "row": 6,
@@ -47667,15 +44607,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 130,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -47698,15 +44629,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 130,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 130,
           "row": 8,
@@ -47721,15 +44643,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 130,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -47752,15 +44665,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 130,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 130,
           "row": 10,
@@ -47779,15 +44683,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 130,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 130,
           "row": 11,
@@ -47802,15 +44697,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 130,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }
@@ -49101,15 +45987,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 137,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 137,
           "row": 2,
@@ -49124,15 +46001,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 137,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -49155,15 +46023,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 137,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 137,
           "row": 4,
@@ -49178,15 +46037,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 137,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -49209,15 +46059,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 137,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 137,
           "row": 6,
@@ -49232,15 +46073,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 137,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -49263,15 +46095,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 137,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 137,
           "row": 8,
@@ -49286,15 +46109,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 137,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -49317,15 +46131,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 137,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 137,
           "row": 10,
@@ -49344,15 +46149,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 137,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 137,
           "row": 11,
@@ -49367,15 +46163,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 137,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }
@@ -50225,15 +47012,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 145,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 145,
           "row": 2,
@@ -50248,15 +47026,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 145,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -50279,15 +47048,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 145,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 145,
           "row": 4,
@@ -50302,15 +47062,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 145,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -50333,15 +47084,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 145,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 145,
           "row": 6,
@@ -50356,15 +47098,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 145,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -50387,15 +47120,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 145,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 145,
           "row": 8,
@@ -50410,15 +47134,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 145,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -50441,15 +47156,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 145,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 145,
           "row": 10,
@@ -50468,15 +47174,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 145,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 145,
           "row": 11,
@@ -50491,15 +47188,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 145,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }
@@ -52105,15 +48793,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 148,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 148,
           "row": 2,
@@ -52128,15 +48807,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 148,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -52159,15 +48829,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 148,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 148,
           "row": 4,
@@ -52182,15 +48843,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 148,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -52213,15 +48865,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 148,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 148,
           "row": 6,
@@ -52236,15 +48879,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 148,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -52267,15 +48901,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 148,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 148,
           "row": 8,
@@ -52290,15 +48915,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 148,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -52321,15 +48937,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 148,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 148,
           "row": 10,
@@ -52348,15 +48955,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 148,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 148,
           "row": 11,
@@ -52371,15 +48969,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 148,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }
@@ -52725,15 +49314,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 158,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 158,
           "row": 2,
@@ -52748,15 +49328,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 158,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -52779,15 +49350,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 158,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 158,
           "row": 4,
@@ -52802,15 +49364,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 158,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }
@@ -53282,15 +49835,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 161,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 161,
           "row": 2,
@@ -53305,15 +49849,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 161,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -53336,15 +49871,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 161,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 161,
           "row": 4,
@@ -53359,15 +49885,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 161,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }
@@ -53965,15 +50482,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 164,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 164,
           "row": 2,
@@ -53988,15 +50496,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 164,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -54019,15 +50518,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 164,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 164,
           "row": 4,
@@ -54042,15 +50532,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 164,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -54073,15 +50554,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 164,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 164,
           "row": 6,
@@ -54096,15 +50568,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 164,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }
@@ -54765,15 +51228,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 167,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 167,
           "row": 2,
@@ -54788,15 +51242,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 167,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -54819,15 +51264,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 167,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 167,
           "row": 4,
@@ -54842,15 +51278,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 167,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -54873,15 +51300,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 167,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 167,
           "row": 6,
@@ -54900,15 +51318,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 167,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행6 invested",
           "table_idx": 167,
           "row": 7,
@@ -54923,15 +51332,6 @@
           "row": 7,
           "col": 2,
           "data_path": "s3_rows.6.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 167,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }
@@ -56096,15 +52496,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 180,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 180,
           "row": 2,
@@ -56119,15 +52510,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 180,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -56150,15 +52532,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 180,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 180,
           "row": 4,
@@ -56173,15 +52546,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 180,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -56204,15 +52568,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 180,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 180,
           "row": 6,
@@ -56227,15 +52582,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 180,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -56258,15 +52604,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 180,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 180,
           "row": 8,
@@ -56281,15 +52618,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 180,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -56312,15 +52640,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 180,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 180,
           "row": 10,
@@ -56339,15 +52658,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 180,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 180,
           "row": 11,
@@ -56362,15 +52672,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 180,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }
@@ -57283,15 +53584,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행0 cumulative",
-          "table_idx": 188,
-          "row": 1,
-          "col": 3,
-          "data_path": "s3_rows.0.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행1 invested",
           "table_idx": 188,
           "row": 2,
@@ -57306,15 +53598,6 @@
           "row": 2,
           "col": 2,
           "data_path": "s3_rows.1.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행1 cumulative",
-          "table_idx": 188,
-          "row": 2,
-          "col": 3,
-          "data_path": "s3_rows.1.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -57337,15 +53620,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행2 cumulative",
-          "table_idx": 188,
-          "row": 3,
-          "col": 3,
-          "data_path": "s3_rows.2.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행3 invested",
           "table_idx": 188,
           "row": 4,
@@ -57360,15 +53634,6 @@
           "row": 4,
           "col": 2,
           "data_path": "s3_rows.3.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행3 cumulative",
-          "table_idx": 188,
-          "row": 4,
-          "col": 3,
-          "data_path": "s3_rows.3.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -57391,15 +53656,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행4 cumulative",
-          "table_idx": 188,
-          "row": 5,
-          "col": 3,
-          "data_path": "s3_rows.4.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행5 invested",
           "table_idx": 188,
           "row": 6,
@@ -57414,15 +53670,6 @@
           "row": 6,
           "col": 2,
           "data_path": "s3_rows.5.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행5 cumulative",
-          "table_idx": 188,
-          "row": 6,
-          "col": 3,
-          "data_path": "s3_rows.5.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -57445,15 +53692,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행6 cumulative",
-          "table_idx": 188,
-          "row": 7,
-          "col": 3,
-          "data_path": "s3_rows.6.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행7 invested",
           "table_idx": 188,
           "row": 8,
@@ -57468,15 +53706,6 @@
           "row": 8,
           "col": 2,
           "data_path": "s3_rows.7.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행7 cumulative",
-          "table_idx": 188,
-          "row": 8,
-          "col": 3,
-          "data_path": "s3_rows.7.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         },
@@ -57499,15 +53728,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행8 cumulative",
-          "table_idx": 188,
-          "row": 9,
-          "col": 3,
-          "data_path": "s3_rows.8.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행9 invested",
           "table_idx": 188,
           "row": 10,
@@ -57526,15 +53746,6 @@
           "section_file": "Contents/section1.xml"
         },
         {
-          "description": "섹션3 행9 cumulative",
-          "table_idx": 188,
-          "row": 10,
-          "col": 3,
-          "data_path": "s3_rows.9.cumulative",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
           "description": "섹션3 행10 invested",
           "table_idx": 188,
           "row": 11,
@@ -57549,15 +53760,6 @@
           "row": 11,
           "col": 2,
           "data_path": "s3_rows.10.capacity",
-          "format": "float1",
-          "section_file": "Contents/section1.xml"
-        },
-        {
-          "description": "섹션3 행10 cumulative",
-          "table_idx": 188,
-          "row": 11,
-          "col": 3,
-          "data_path": "s3_rows.10.cumulative",
           "format": "float1",
           "section_file": "Contents/section1.xml"
         }

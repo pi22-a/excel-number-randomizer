@@ -24,7 +24,15 @@ pack_for_internal.py
 # 임시 분석 스크립트
 _analyze_cells.py
 _check_mapping.py
+_check_hwpx_s3.py
+_check_s3.py
+_test_run.py
 make_test_hwpx.py
+
+# 테스트 출력 파일
+배포/_test_*.hwpx
+배포/test_sample*.hwpx
+배포/test_utils*.hwpx
 
 # Python 캐시
 __pycache__/

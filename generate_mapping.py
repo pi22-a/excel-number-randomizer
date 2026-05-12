@@ -87,7 +87,8 @@ S2_COLS = S1_COLS  # 동일한 열 구조
 S3_COLS = [
     (1, 'invested',   'float1'),
     (2, 'capacity',   'float1'),
-    (3, 'cumulative', 'float1'),
+    # col 3 없음: HWPX 섹션3 표는 3열(0=연도, 1=투자금액, 2=투자여력(누계))만 존재
+    # cumulative(누적투자금액)은 별도 열 없이 표기되지 않으므로 제거
 ]
 
 
