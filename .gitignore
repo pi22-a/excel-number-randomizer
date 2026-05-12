@@ -1,6 +1,7 @@
 # 가상환경
 build_venv/
 build_env/
+venv_autofill/
 
 # PyInstaller 빌드 임시파일
 build_tmp/
@@ -30,9 +31,11 @@ _test_run.py
 make_test_hwpx.py
 
 # 테스트 출력 파일
+배포/test_*.hwpx
 배포/_test_*.hwpx
-배포/test_sample*.hwpx
-배포/test_utils*.hwpx
+
+# 생성 파일 (generate_mapping.py로 재생성 가능)
+mapping.json
 
 # Python 캐시
 __pycache__/
